@@ -2,9 +2,6 @@
 A web-based Hotel Booking System for managing guest bookings, rooms, and payments. Features include room selection, automated payment calculations, booking updates, search functionality, and a booking summary. Built with HTML, CSS, and JavaScript, with data stored locally in localStorage.
 
 
-This **Hotel Booking System** is a web-based application designed to streamline the management of hotel bookings, guests, rooms, and payments. The system offers a user-friendly interface for adding, updating, and viewing bookings, along with a **Booking Summary** for quick insights on total bookings and payment collected.
-
-
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -14,13 +11,13 @@ This **Hotel Booking System** is a web-based application designed to streamline 
 5. [Usage](#usage)
 6. [Project Structure](#project-structure)
 7. [Screenshots](#screenshots)
-8. [Contributing](#contributing)
-9. [License](#license)
 
 ---
 
 ### Overview
 The **Hotel Booking System** is a web application designed to streamline hotel bookings and guest management. Built using HTML, CSS, and JavaScript, this application allows hotel staff to add, update, search, and manage room bookings efficiently. Each booking includes guest details, room type, check-in/check-out dates, and payment information.
+
+This **Hotel Booking System** is a web-based application designed to streamline the management of hotel bookings, guests, rooms, and payments. The system offers a user-friendly interface for adding, updating, and viewing bookings, along with a **Booking Summary** for quick insights on total bookings and payment collected.
 
 ---
 
@@ -92,15 +89,14 @@ hotel-booking-system/
 ### Screenshots
 Include screenshots here to showcase the user interface and features of your project.
 
----
+![1](https://github.com/user-attachments/assets/b5efe00d-24cb-42c1-b05e-8d586790c0e0)
 
-### Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/username/hotel-booking-system/issues) for existing issues or create a new one if you have suggestions.
+![2](https://github.com/user-attachments/assets/9967975c-e8f4-449a-836b-7c397cb082a6)
 
----
+![3](https://github.com/user-attachments/assets/d03dea5b-c536-4cf9-9435-d8cf1a8e1d8c)
 
-### License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
+![4](https://github.com/user-attachments/assets/02f56d95-6cbd-4a50-be70-de1cca3bc060)
+
 
 ---
 
